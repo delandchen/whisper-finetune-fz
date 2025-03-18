@@ -28,13 +28,13 @@ jiwer==3.0.1
 joblib==1.2.0
 lazy_loader==0.2
 librosa==0.10.0.post2
-llvmlite==0.39.1
+llvmlite>=0.39.1
 Markdown==3.4.3
 MarkupSafe==2.1.2
 msgpack==1.0.5
 multidict==6.0.4
 multiprocess==0.70.14
-numba==0.56.4
+numba>=0.56.4
 numpy==1.23.5
 oauthlib==3.2.2
 packaging==23.1
