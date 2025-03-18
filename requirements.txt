@@ -29,7 +29,7 @@ jiwer==3.0.1
 joblib==1.2.0
 lazy_loader==0.2
 librosa==0.10.0.post2
-llvmlite==0.39.1
+llvmlite>=0.40.0
 Markdown==3.4.3
 MarkupSafe==2.1.2
 msgpack==1.0.5
