@@ -4,7 +4,6 @@ tqdm>=4.65.0
 datasets>=2.11.0
 jax>=0.4.13
 jaxlib>=0.4.13
-whisper-jax>=0.0.1
 argparse>=1.4.0
 pathlib>=1.0.1
 numpy>=1.23.5
