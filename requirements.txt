@@ -6,3 +6,4 @@ jax==0.4.6
 jaxlib==0.4.6
 numpy>=1.23.5
 multiprocess>=0.70.14
+huggingface-hub>=0.29.3
